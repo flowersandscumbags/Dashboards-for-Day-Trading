@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
